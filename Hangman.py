@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-@author: Tamim_Hussein
-CodeAlpha Python Programing Internship
-Task: Hangman
-
-"""
 import random
 
 def display(mistakes):
